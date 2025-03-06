@@ -1,5 +1,5 @@
 ## progCGcarousel
-Il progetto di computer grafica in C++
+Il progetto di computer grafica in C++, sviluppato in ambiente Linux
 
 Salve! 👾
 
