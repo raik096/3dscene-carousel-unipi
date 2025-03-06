@@ -1,0 +1,9 @@
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/nanosvg.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/nanosvgrast.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/NanoSVGApp.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/edit_cache.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/rebuild_cache.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/list_install_components.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/install.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/install/local.dir
+/home/re/Desktop/ProgCG/3dparty/nanosvg/build/CMakeFiles/install/strip.dir

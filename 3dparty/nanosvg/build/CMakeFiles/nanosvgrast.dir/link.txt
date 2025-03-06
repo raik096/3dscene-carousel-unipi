@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnanosvgrast.a CMakeFiles/nanosvgrast.dir/nanosvgrast.c.o
+/usr/bin/ranlib libnanosvgrast.a
