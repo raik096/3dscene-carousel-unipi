@@ -40,7 +40,7 @@
 
 #define SHADOW_MAPPING true
 #define CAR_HEADLIGHTS true
-#define CAR_AMOUNT 2 //Il max dovrebbe essere dieci
+#define CAR_AMOUNT 10 //Il max dovrebbe essere dieci
 
 /* creo un array di due oggetti di tipo trackball e curr_tb mi tiene traccia dell'indice attivo tralle due tb*/
 trackball tb[2];
