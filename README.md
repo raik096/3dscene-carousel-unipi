@@ -62,7 +62,7 @@ Il codice di partenza era disponibile nella directory `src/common/carousel` del 
 <img width="544" height="564" alt="Pre-rendering" src="https://github.com/user-attachments/assets/6a23e7f9-a502-4545-884b-46db9f178455" />
 
 ### Dopo — Risultato finale con texture, ombre e illuminazione
-<img width="1072" height="1498" alt="Post-rendering" src="https://github.com/user-attachments/assets/0cf3aab4-2aea-4085-88ba-e10c6d769f04" />
+<img width="544" height="564" alt="Post-rendering" src="https://github.com/user-attachments/assets/0cf3aab4-2aea-4085-88ba-e10c6d769f04" />
 
 ---
 
