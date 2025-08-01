@@ -2,7 +2,7 @@
 
 ## 🖼️ Descrizione Generale
 
-Questo progetto nasce come estensione del codice base fornito dal corso di **Computer Grafica** (Università di Pisa, Prof. G. Ganovelli). L'obiettivo era sviluppare un'applicazione in C++ (ambiente Linux) interattiva che mostrasse e permettesse di manipolare una scena animata contenente un carosello di automobili, su un terreno realistico, con vari elementi grafici e illuminazione.
+Questo progetto nasce come estensione del codice base fornito dal corso di **Computer Grafica** (Università di Pisa, Prof. G. Ganovelli). L'obiettivo era sviluppare un'applicazione in C++ (ambiente Linux, sfruttando le librerie grafiche OpenGL) interattiva che mostrasse e permettesse di manipolare una scena animata contenente un carosello di automobili, su un terreno realistico, con vari elementi grafici e illuminazione.
 
 Il codice di partenza era disponibile nella directory `src/common/carousel` del repository ufficiale del corso. A partire da questa base, sono state implementate tutte le **funzionalità richieste** e alcune migliorie personali.
 
