@@ -6,7 +6,7 @@ Questo progetto nasce come estensione del codice base fornito dal corso di **Com
 
 Il codice di partenza era disponibile nella directory `src/common/carousel` del repository ufficiale del corso. A partire da questa base, sono state implementate tutte le **funzionalità richieste** e alcune migliorie personali.
 
-Il lavoro si è svolto in collaborazione con il collega Davide Gaudio [github.com/OneAbowAll] 🖖🏼
+Il lavoro si è svolto in collaborazione con il collega Davide Gaudio @unipi [github.com/OneAbowAll] 🖖🏼
 
 ---
 
